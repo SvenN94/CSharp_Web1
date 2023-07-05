@@ -1,0 +1,9 @@
+﻿@model ProductModel
+
+
+@foreach(var p in Model.Products)
+{
+	<partial name="ProductSummary" model="p"/>
+}
+<br>
+<paging-link paging-info="@Model.PagingInfo"></paging-link>

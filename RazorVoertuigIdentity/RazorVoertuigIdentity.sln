@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorVoertuigIdentity", "RazorVoertuigIdentity\RazorVoertuigIdentity.csproj", "{6E9C03AB-83CC-4AFF-8947-03371E36FA12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E9C03AB-83CC-4AFF-8947-03371E36FA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9C03AB-83CC-4AFF-8947-03371E36FA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9C03AB-83CC-4AFF-8947-03371E36FA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9C03AB-83CC-4AFF-8947-03371E36FA12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {940305BB-91F4-49BF-B49C-5337B870E288}
+	EndGlobalSection
+EndGlobal
